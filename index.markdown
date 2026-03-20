@@ -40,8 +40,8 @@ We specialize in connecting field devices, organizing complex data, and turning 
 
 ## Use Cases
 
-- Asset tracking using **4G LTE**
-- Vibration monitoring using **LoRaWAN**
+- Asset tracking
+- Vibration monitoring
 - Temperature monitoring
 - Pressure monitoring
 - RPM and rotating equipment monitoring
@@ -50,7 +50,7 @@ We specialize in connecting field devices, organizing complex data, and turning 
 - Process and equipment health monitoring
 - Device health and communications monitoring
 
-Our platforms can monitor not only the process itself, but also the health of the connected devices and wireless infrastructure behind it.
+Our platforms can monitor and transform not only the process itself, but also the health of the connected devices and wireless infrastructure behind it.
 
 ---
 
