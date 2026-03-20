@@ -21,7 +21,7 @@ title:
   We design and deploy scalable monitoring systems that connect field devices, unify operational data, and turn complex information into actionable insight.
 </p>
 
-<ul style="max-width: 760px; margin: 0 auto 2rem auto; line-height: 1.9;">
+<ul class="hero-benefits">
   <li>Accelerate wireless deployment and system scalability</li>
   <li>Reduce infrastructure and deployment costs with LoRaWAN and 4G LTE</li>
   <li>Improve operational efficiency with real-time monitoring and alerts</li>
