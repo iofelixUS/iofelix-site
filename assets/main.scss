@@ -1,0 +1,79 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minima";
+
+.page-content {
+  padding-top: 40px;
+}
+
+.wrapper {
+  max-width: 980px;
+}
+
+h1 {
+  font-size: 2.4rem;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 2.2em;
+  margin-bottom: 0.8em;
+  border-bottom: 1px solid #2a2a2a;
+  padding-bottom: 0.3em;
+}
+
+h3 {
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+}
+
+p {
+  line-height: 1.7;
+}
+
+.hero-subtext {
+  text-align: center;
+  font-size: 1.15rem;
+  max-width: 760px;
+  margin: 0 auto 1.2em auto;
+}
+
+.hero-tech {
+  text-align: center;
+  font-weight: 700;
+  margin: 1em 0 1.2em 0;
+}
+
+.hero-note {
+  text-align: center;
+  max-width: 760px;
+  margin: 0 auto 2em auto;
+}
+
+.logo-wrap {
+  text-align: center;
+  margin-bottom: 1.2em;
+}
+
+.logo-wrap img {
+  max-width: 220px;
+  height: auto;
+}
+
+.site-footer {
+  margin-top: 60px;
+  padding-top: 20px;
+}
+
+hr {
+  margin: 2.5rem 0;
+  opacity: 0.25;
+}
+
+ul {
+  line-height: 1.8;
+}
