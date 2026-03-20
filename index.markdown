@@ -1,13 +1,12 @@
 ---
-layout: home
+layout: default
 title:
 ---
-# Industrial IoT, Integration, and Platforming
 <p style="text-align: center;">
   <img src="/assets/img/logo.png" alt="ioFelix logo" width="220">
 </p>
 
-
+# Industrial IoT, Integration, and Platforming
 
 ioFelix designs and deploys practical Industrial IoT systems for real-time monitoring, wireless connectivity, and operational visibility. We specialize in wireless infrastructure design, device integration, and scalable monitoring platforms that transform field data into actionable information.
 
