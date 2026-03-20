@@ -28,8 +28,8 @@ title:
   <li>Predict and prevent equipment or process failures</li>
 </ul>
 
-<p style="text-align: center; margin: 1.5rem 0 2.5rem 0;">
-  <a href="mailto:flavioperez@iofelix.com" style="display: inline-block; padding: 12px 22px; background: #1f2937; color: white; border: 1px solid #4b5563; border-radius: 8px; text-decoration: none; font-weight: 600;">
+<p class="hero-cta-wrap">
+  <a href="mailto:flavioperez@iofelix.com" class="hero-cta">
     Discuss Your Project
   </a>
 </p>
