@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: ioFelix
 ---
+
+![ioFelix logo](/assets/img/iofThm.png)
 
 # Industrial IoT, Integration, and Visibility
 
