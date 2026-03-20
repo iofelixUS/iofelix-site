@@ -78,14 +78,6 @@ ul {
   line-height: 1.8;
 }
 
-.hero-benefits {
-  max-width: 700px;
-  margin: 0 auto 2rem auto;
-  line-height: 1.9;
-  padding: 0 1.25rem 0 2rem;
-  box-sizing: border-box;
-}
-
 .what-we-do-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -147,4 +139,29 @@ ul {
 .hero-cta:focus {
   outline: 2px solid #9ca3af;
   outline-offset: 3px;
+}
+
+.hero-benefits {
+  max-width: 760px;
+  margin: 0 auto 2rem auto;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
+}
+
+.hero-benefits li {
+  border: 1px solid #2f3542;
+  border-radius: 12px;
+  padding: 0.95rem 1.1rem;
+  background: rgba(255, 255, 255, 0.025);
+  line-height: 1.6;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+@media screen and (min-width: 760px) {
+  .hero-benefits {
+    grid-template-columns: 1fr 1fr;
+  }
 }
