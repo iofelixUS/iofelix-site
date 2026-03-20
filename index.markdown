@@ -7,7 +7,7 @@ title:
   <img src="/assets/img/logo.png" alt="ioFelix logo" width="220">
 </p>
 
-# Industrial IoT, Integration, and Monitoring Platforms
+# Industrial IoT, Wireless Infrastructure, and Monitoring Platforms
 
 <p class="hero-subtext">
   Practical Industrial IoT systems for real-time monitoring, wireless connectivity, and operational visibility.
@@ -18,8 +18,15 @@ title:
 </p>
 
 <p class="hero-note">
-  From pilot deployments to large-scale implementations, we build systems that are cohesive, efficient, and tailored to customer needs.
+  We design and deploy scalable monitoring systems that connect field devices, unify operational data, and turn complex information into actionable insight.
 </p>
+
+<ul style="max-width: 760px; margin: 0 auto 2rem auto; line-height: 1.9;">
+  <li>Accelerate wireless deployment and system scalability</li>
+  <li>Reduce infrastructure and deployment costs with LoRaWAN and 4G LTE</li>
+  <li>Improve operational efficiency with real-time monitoring and alerts</li>
+  <li>Predict and prevent equipment or process failures</li>
+</ul>
 
 ---
 
@@ -47,9 +54,9 @@ Our end-to-end platforms are built for real-time data streaming, alerting, and r
 
 ## Why ioFelix
 
-ioFelix delivers vendor-agnostic solutions built for the real world. Unlike manufacturer-specific ecosystems that are often limited to a single brand or product line, our platforms are designed for broad compatibility across multiple vendors and device types, all while utilizing one single core infrastructure.
+ioFelix delivers vendor-agnostic solutions built for the real world. Unlike manufacturer-specific ecosystems that are often limited to a single brand or product line, our platforms are designed for broad compatibility across multiple vendors and device types, all while operating on a unified core infrastructure.
 
-We specialize in connecting wireless field devices, organizing complex data, and transforming that data into actionable, easy-to-use information within a unified monitoring platform. This helps our customers avoid fragmented systems and quickly build monitoring environments that grow with their operation.
+We specialize in connecting wireless field devices, organizing complex data, and transforming that data into actionable, easy-to-use information within a unified monitoring platform. This helps our customers avoid fragmented systems and build monitoring environments that scale with their operation.
 
 ---
 
