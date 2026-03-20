@@ -40,21 +40,27 @@ title:
 
 We specialize in wireless infrastructure design, device integration, and scalable monitoring platforms that transform field data into actionable information.
 
-### Industrial IoT Wireless Infrastructure Design and Integration
+<div class="what-we-do-grid">
+  <div class="service-card">
+    <h3>Industrial IoT Wireless Infrastructure Design and Integration</h3>
+    <p>We design and implement robust wireless infrastructure for industrial monitoring applications, enabling reliable connectivity across demanding environments.</p>
+  </div>
 
-We design and implement robust wireless infrastructure for industrial monitoring applications, enabling reliable connectivity across demanding environments.
+  <div class="service-card">
+    <h3>Real-Time Monitoring Platforms and Dashboard Development</h3>
+    <p>We build fully customizable monitoring platforms tailored to each customer’s operational goals. Our systems are designed for clarity, scalability, and real-time visibility across many assets and processes.</p>
+  </div>
 
-### Real-Time Monitoring Platforms and Dashboard Development
+  <div class="service-card">
+    <h3>Device Connectivity and Deployment</h3>
+    <p>With deep expertise in wireless system integration, we deploy reliable device networks that maximize coverage, performance, and maintainability in real-world industrial environments.</p>
+  </div>
 
-We build fully customizable monitoring platforms tailored to each customer’s operational goals. Our systems are designed for clarity, scalability, and real-time visibility across many assets and processes.
-
-### Device Connectivity and Deployment
-
-With deep expertise in wireless system integration, we deploy reliable device networks that maximize coverage, performance, and maintainability in real-world industrial environments.
-
-### Data Pipelines, Alerts, and Reporting
-
-Our end-to-end platforms are built for real-time data streaming, alerting, and reporting. By owning the full architecture, we deliver faster, more flexible, and more responsive systems for mission-critical monitoring.
+  <div class="service-card">
+    <h3>Data Pipelines, Alerts, and Reporting</h3>
+    <p>Our end-to-end platforms are built for real-time data streaming, alerting, and reporting. By owning the full architecture, we deliver faster, more flexible, and more responsive systems for mission-critical monitoring.</p>
+  </div>
+</div>
 
 ---
 
