@@ -64,6 +64,34 @@ We specialize in wireless infrastructure design, device integration, and scalabl
 
 ---
 
+## Featured solutions
+
+### Hybrid Asset Tracking
+
+Track any asset — on-site or in transit — using a hybrid **LoRaWAN + LTE** solution built for coverage, battery efficiency, and scale.
+
+- LoRaWAN for local, low-power coverage
+- LTE for wide-area and mobile visibility
+- Real-time location, route history, and alerts
+- Geofencing, utilization insights, and theft prevention
+- Custom dashboards and integration-ready data flows
+
+A flexible architecture that reduces cost, improves visibility, and avoids lock-in to a single network.
+
+### Vibration Monitoring
+
+LoRaWAN-based vibration monitoring enables real-time visibility across large populations of machines while supporting advanced analytics and failure detection.
+
+- Monitor thousands of connected vibration sensors over a scalable wireless network
+- Analyze waveform data to help identify potential failure modes
+- Improve maintenance visibility with real-time dashboards and alerts
+- Add operational context to vibration data for better interpretation and response
+- Support predictive maintenance strategies across distributed equipment
+
+This approach combines scalable wireless coverage with actionable analytics to improve machine health monitoring and reduce unplanned downtime.
+
+---
+
 ## Why ioFelix
 
 ioFelix delivers vendor-agnostic solutions built for the real world. Unlike manufacturer-specific ecosystems that are often limited to a single brand or product line, our platforms are designed for broad compatibility across multiple vendors and device types, all while operating on a unified core infrastructure.
@@ -83,6 +111,8 @@ We specialize in connecting wireless field devices, organizing complex data, and
 - Device health and communications monitoring
 
 Our platforms provide visibility into both the process itself and the health of the connected devices and wireless infrastructure behind it.
+
+Our current featured solutions focus on asset tracking and vibration monitoring, but the same core infrastructure and integration approach can be applied to temperature, pressure, electrical, environmental, process, and device health monitoring.
 
 ---
 
