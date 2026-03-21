@@ -58,7 +58,7 @@ We specialize in wireless infrastructure design, device integration, and scalabl
 
   <div class="service-card">
     <h3>Data Pipelines, Alerts, and Reporting</h3>
-    <p>Our end-to-end platforms are built for real-time data streaming, alerting, and reporting. By owning the full architecture, we deliver faster, more flexible, and more responsive systems for mission-critical monitoring.</p>
+    <p>Our end-to-end platforms are built for real-time data streaming, historization, alerting, and reporting. By owning the full architecture, we deliver faster, more flexible, and more responsive systems for mission-critical monitoring.</p>
   </div>
 </div>
 
