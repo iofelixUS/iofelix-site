@@ -104,6 +104,18 @@ p {
   transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
 
+.hero-cta,
+.hero-cta:visited {
+  color: #fff;
+}
+
+.hero-cta:hover,
+.hero-cta:focus,
+.hero-cta:active {
+  color: #fff;
+  text-decoration: none;
+}
+
 .hero-cta:hover {
   transform: translateY(-1px);
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.32);
