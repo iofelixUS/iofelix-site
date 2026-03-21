@@ -132,3 +132,7 @@ Contact ioFelix to discuss your monitoring or integration project.
 Founder
 
 [flavioperez@iofelix.com](mailto:flavioperez@iofelix.com)
+
+<p style="text-align: center; opacity: 0.75; font-size: 0.95rem; margin-top: 2rem;">
+  © 2026 ioFelix · Industrial IoT Solutions for Real-Time Monitoring and Wireless Infrastructure
+</p>
