@@ -64,31 +64,39 @@ We specialize in wireless infrastructure design, device integration, and scalabl
 
 ---
 
-## Featured solutions
+## Featured Solutions
 
-### Hybrid Asset Tracking
+<div class="featured-solutions-grid">
+  <div class="solution-card">
+    <h3>Hybrid Asset Tracking</h3>
+    <p>Track any asset — on-site or in transit — using a hybrid <strong>LoRaWAN + LTE</strong> solution built for coverage, battery efficiency, and scale.</p>
 
-Track any asset — on-site or in transit — using a hybrid **LoRaWAN + LTE** solution built for coverage, battery efficiency, and scale.
+    <ul>
+      <li>LoRaWAN for local, low-power coverage</li>
+      <li>LTE for wide-area and mobile visibility</li>
+      <li>Real-time location, route history, and alerts</li>
+      <li>Geofencing, utilization insights, and theft prevention</li>
+      <li>Custom dashboards and integration-ready data flows</li>
+    </ul>
 
-- LoRaWAN for local, low-power coverage
-- LTE for wide-area and mobile visibility
-- Real-time location, route history, and alerts
-- Geofencing, utilization insights, and theft prevention
-- Custom dashboards and integration-ready data flows
+    <p>A flexible architecture that reduces cost, improves visibility, and avoids lock-in to a single network.</p>
+  </div>
 
-A flexible architecture that reduces cost, improves visibility, and avoids lock-in to a single network.
+  <div class="solution-card">
+    <h3>Vibration Monitoring</h3>
+    <p>LoRaWAN-based vibration monitoring enables real-time visibility across large populations of machines while supporting advanced analytics and failure detection.</p>
 
-### Vibration Monitoring
+    <ul>
+      <li>Monitor thousands of connected vibration sensors over a scalable wireless network</li>
+      <li>Analyze waveform data to help identify potential failure modes</li>
+      <li>Improve maintenance visibility with real-time dashboards and alerts</li>
+      <li>Add operational context to vibration data for better interpretation and response</li>
+      <li>Support predictive maintenance strategies across distributed equipment</li>
+    </ul>
 
-LoRaWAN-based vibration monitoring enables real-time visibility across large populations of machines while supporting advanced analytics and failure detection.
-
-- Monitor thousands of connected vibration sensors over a scalable wireless network
-- Analyze waveform data to help identify potential failure modes
-- Improve maintenance visibility with real-time dashboards and alerts
-- Add operational context to vibration data for better interpretation and response
-- Support predictive maintenance strategies across distributed equipment
-
-This approach combines scalable wireless coverage with actionable analytics to improve machine health monitoring and reduce unplanned downtime.
+    <p>This approach combines scalable wireless coverage with actionable analytics to improve machine health monitoring and reduce unplanned downtime.</p>
+  </div>
+</div>
 
 ---
 
