@@ -1,6 +1,7 @@
 ---
 layout: default
 title:
+description: ioFelix designs and deploys Industrial IoT systems for real-time monitoring, wireless connectivity, and operational visibility.
 ---
 
 <p class="logo-wrap">
